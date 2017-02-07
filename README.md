@@ -29,4 +29,4 @@ Text editor added
 <p>Yana bakan    < . > (side lookers)</p>
 <p>Lookers Bros are our selector curser.</p>
 <p> When we create our projects, we use "<.<" ">.>" thats characters.</p>
-<p>>.>          Created by Atakan A. Murat M          <.<</p>
+<p>>.>          Created by Atakan A. Murat D.          <.<</p>
